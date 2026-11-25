@@ -1,0 +1,19 @@
+Column_name,Definition,Units
+date,sampling date,-
+plot,studied sites: CT-Certovo; PL-Plesne,-
+horizon,soil layer: O-organic; A-organomineral,-
+year,year of the sampling,-
+nitrif,nitrification ,nmol/g/d
+Cmic,microbial biomass C (CFEM),\mumol C/g
+Nmic,microbial biomass N (CFEM),\mumol N/g
+DOC,dissolved organic C,\mumol C/g
+DN,dissolved N (NH4+NO3+Norg),\mumol N/g
+NO3,H2O extractable nitrates,\mumol N/g
+NH4_H2O,H2O extractable ammonium,\mumol N/g
+DIN_H2O ,H2O extractable inorganic N (NH4+NO3),\mumol N/g
+DON_H2O,H2O extractable organic N,\mumol N/g
+TP ,H2O extractable total P,\mumol P/g
+DOC_DON,disolved organicC-to-disolved organic N,nondimensional
+CUE,carbon use efficiency,nondimensional
+CN_CR,C-to-N critical,nondimensional
+DOC_DN,disolved organicC-to-disolved N,nondimensional
